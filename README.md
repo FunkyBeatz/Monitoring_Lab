@@ -183,11 +183,12 @@ To make it visual & impressive, I’ll upload these screenshots:
 
 ---
 
-## **Socials:**
+## Follow Me on Social Media
 
-[Follow me on 𝕏](https://x.com/FunkyxBeatz)
+Stay connected and follow my work on social media:
 
-[Follow Webfrens on 𝕏](https://x.com/WebFrens_) - Website under development
+- **Main 𝕏 Account:** [FunkyxBeatz](https://x.com/FunkyxBeatz)
+- **Projects 𝕏 Account:** [WebFrens_](https://x.com/WebFrens_)
 
 
 
