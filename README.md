@@ -71,7 +71,7 @@ scrape_configs:
 
 # 2. Grafana
 
-Installed via .tar.gz, configured service under /etc/systemd/system/grafana.service.
+Installed via `.tar.gz`, configured service under `/etc/systemd/system/grafana.service`.
 
 # 3. Node Exporter (Linux)
 
@@ -97,8 +97,10 @@ WantedBy=multi-user.target
 
 # 4. Windows Exporter
 
-Downloaded from https://github.com/prometheus-community/windows_exporter/releases.
-Runs as a Windows Service on port 9182.
+Because they do not support node_exporter on windows binaries anymore.
+
+Downloaded from `https://github.com/prometheus-community/windows_exporter/releases`
+Runs as a Windows Service on port `9182`.
 
 ⚠️ Still debugging: target currently shows context deadline exceeded.
 (Troubleshooting steps included below.)
@@ -149,7 +151,7 @@ I hit multiple issues along the way:
   sudo ufw allow from 192.168.0.0/24 to any port 3000
   ```
 
-Keep 9100 (Linux Node Exporter) and 9182 (Windows Exporter) open only to Prometheus server
+Keep `9100` (Linux Node Exporter) and `9182` (Windows Exporter) open only to Prometheus server
 
 Avoid disabling AV/firewall entirely; create granular rules instead
 
