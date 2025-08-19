@@ -1,0 +1,15 @@
+Windows Exporter Setup
+----------------------
+- Installed via MSI (wmi_exporter / windows_exporter)
+- Listening on port 9182 (0.0.0.0:9182)
+- Issues faced:
+    * Prometheus target showed DOWN
+    * Context deadline exceeded errors
+    * Suspected Norton AV blocking traffic
+    * Tried creating Windows Firewall inbound rules:
+        - TCP 9182 Allow
+        - ICMP Echo Request Allow (ping)
+    * Outbound rules tested as well
+- Next steps:
+    * Verify Norton (or any other anti virus you might have installed) exclusions
+    * Double check Windows firewall rules remain active
