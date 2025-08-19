@@ -1,8 +1,9 @@
-Even though this is a valid server, it shows up invalid, working on solving this later: [![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
 
-[![Follow me FunkyBeatz on 𝕏](https://img.shields.io/badge/Web%20Frens%202025%20©-Yellow-brightgreen)](https://x.com/FunkyxBeatz)
+[![Follow me on 𝕏](https://img.shields.io/badge/Follow%20Me%20On%20𝕏-Yellow-brightgreen)](https://x.com/FunkyxBeatz)
 
-[![Follow Web Frens on 𝕏](https://img.shields.io/badge/Web%20Frens%202025%20©-Yellow-brightgreen)](https://x.com/WebFrens_)
+[![Follow Web Frens on 𝕏](https://img.shields.io/badge/Follow%20Web%20Frens%20On%20𝕏-Yellow-brightgreen)](https://x.com/WebFrens_)
+
+[![Discord](https://img.shields.io/discord/1330332570847547433?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
 
 
 # Monitoring Lab with Prometheus, Grafana & Node Exporter
