@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/discord/1330332570847547433?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
 
 
+
 # Monitoring Lab with Prometheus, Grafana & Node Exporter
 
 This repo documents my hands on setup of a **monitoring stack** across multiple laptops (Linux + Windows).  
