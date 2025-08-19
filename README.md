@@ -192,6 +192,7 @@ Stay connected and follow my work on social media:
 - **Main 𝕏 Account:** [FunkyxBeatz](https://x.com/FunkyxBeatz)
 - **Projects 𝕏 Account:** [WebFrens_](https://x.com/WebFrens_)
 
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
 
 
 
