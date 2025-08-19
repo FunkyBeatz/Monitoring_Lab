@@ -1,3 +1,8 @@
+[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
+
+[![Web Frens 2025 ©](https://img.shields.io/badge/Web%20Frens%202025%20©-Yellow-brightgreen)](https://x.com/FunkyxBeatz)
+
+
 # Monitoring Lab with Prometheus, Grafana & Node Exporter
 
 This repo documents my hands on setup of a **monitoring stack** across multiple laptops (Linux + Windows).  
@@ -192,7 +197,7 @@ Stay connected and follow my work on social media:
 - **Main 𝕏 Account:** [FunkyxBeatz](https://x.com/FunkyxBeatz)
 - **Projects 𝕏 Account:** [WebFrens_](https://x.com/WebFrens_)
 
-[![Discord](https://img.shields.io/discord/123456789012345678?label=Discord&color=blue)](https://discord.gg/gVEEv8Yswu) 
+
 
 
 
