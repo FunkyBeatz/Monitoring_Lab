@@ -1,0 +1,11 @@
+Status: active
+Default: deny (incoming), allow (outgoing)
+Logging: on
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW       Anywhere
+9090/tcp                   ALLOW       Anywhere
+9100/tcp                   ALLOW       Anywhere
+3000/tcp                   ALLOW       Anywhere
+9182/tcp                   ALLOW       Anywhere
