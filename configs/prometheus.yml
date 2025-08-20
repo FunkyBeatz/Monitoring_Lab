@@ -8,8 +8,8 @@ scrape_configs:
 
   - job_name: "linux-node"
     static_configs:
-      - targets: ["192.168.x.x:9100"]   # Example Linux laptop
-      - targets: ["192.168.x.x:9100"]   # Example ProBook
+      - targets: ["192.168.x.x:9100"]   # Example laptop nr 1
+      - targets: ["192.168.x.x:9100"]   # Example laptop nr 2
 
   - job_name: "windows-node"
     static_configs:
